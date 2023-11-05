@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/GGroups/basic/bitops"
+	"github.com/GGroups/AlgorithmGo/basic/bitops"
 )
 
 func main() {
